@@ -37,5 +37,5 @@ Exploratory Data Analysis (EDA) on Google Play Store dataset. Includes data clea
 - Suitable visualizations (bar charts, histograms, box plots, heatmaps, etc.) included.
 
 ## Notebook on Kaggle  
-🔗 [View the Notebook on Kaggle]([https://www.kaggle.com/your-username/your-notebook-name](https://www.kaggle.com/code/begadmohamedhamdy/play-store-apps-data-cleaning-and-preprocessing))  
+🔗 [View the Notebook on Kaggle](https://www.kaggle.com/code/begadmohamedhamdy/play-store-apps-data-cleaning-and-preprocessing)
 
